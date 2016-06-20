@@ -1,10 +1,17 @@
+\select@language {ngerman}
 \contentsline {chapter}{\numberline {1}Tiefpass 1.Ordnung}{2}
 \contentsline {section}{\numberline {1.1}Aufstellen der \IeC {\"U}bertragungsfunktionen im s-Bereich inklusive Halteglied}{2}
 \contentsline {section}{\numberline {1.2}Transformation in den z-Bereich \IeC {\"u}ber Korrespondenztabelle}{2}
 \contentsline {section}{\numberline {1.3}Darstellung als Strukturplan}{3}
 \contentsline {section}{\numberline {1.4}Simulationsergebnisse}{3}
-\contentsline {chapter}{\numberline {2}Hochpass 1. Ordnung}{5}
-\contentsline {section}{\numberline {2.1}Aufstellen der \IeC {\"U}bertragungsfunktionen im s-Bereich inklusive Halteglied}{5}
-\contentsline {section}{\numberline {2.2}Transformation in den z-Bereich \IeC {\"u}ber Korrespondenztabelle}{5}
-\contentsline {section}{\numberline {2.3}Darstellung als Strukturplan}{6}
-\contentsline {section}{\numberline {2.4}Simulationsergebnisse}{6}
+\contentsline {chapter}{\numberline {2}Hochpass 1. Ordnung}{6}
+\contentsline {section}{\numberline {2.1}Aufstellen der \IeC {\"U}bertragungsfunktionen im s-Bereich inklusive Halteglied}{6}
+\contentsline {section}{\numberline {2.2}Transformation in den z-Bereich \IeC {\"u}ber Korrespondenztabelle}{6}
+\contentsline {section}{\numberline {2.3}Darstellung als Strukturplan}{7}
+\contentsline {section}{\numberline {2.4}Simulationsergebnisse}{7}
+\contentsline {chapter}{\numberline {3}PID-Regler}{9}
+\contentsline {section}{\numberline {3.1}Darstellung als Strukturplan}{10}
+\contentsline {section}{\numberline {3.2}Simulationsergebnisse}{10}
+\contentsline {chapter}{\numberline {4}Gleitender Mittelwertbilder(FIR)}{12}
+\contentsline {section}{\numberline {4.1}Darstellung als Strukturplan}{12}
+\contentsline {section}{\numberline {4.2}Simulationsergebnisse}{12}

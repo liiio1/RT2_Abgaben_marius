@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.10)  14 JUN 2016 12:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.10)  20 JUN 2016 22:08
 entering extended mode
 **Digitale_Übertragungsglieder.tex
 (Digitale_Übertragungsglieder.tex
@@ -373,32 +373,56 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks22
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2015/08/03 3.9m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\ngerman.ldf"
+Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\ngermanb.ldf"
+Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2015/08/03 3.9m Babel common definitions
+\babel@savecnt=\count104
+\U@D=\dimen122
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+\l@nswissgerman = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 88.
+)))
 (Digitale_Übertragungsglieder.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count104
-\scratchdimen=\dimen122
+\scratchcounter=\count105
+\scratchdimen=\dimen123
 \scratchbox=\box28
-\nofMPsegments=\count105
-\nofMParguments=\count106
+\nofMPsegments=\count106
+\nofMParguments=\count107
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count107
-\MPscratchDim=\dimen123
-\MPnumerator=\count108
-\makeMPintoPDFobject=\count109
+\MPscratchCnt=\count108
+\MPscratchDim=\dimen124
+\MPnumerator=\count109
+\makeMPintoPDFobject=\count110
 \everyMPtoPDFconversion=\toks24
 )
 *geometry* driver: auto-detecting
@@ -410,14 +434,14 @@ LaTeX Font Info:    ... okay on input line 13.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 759.6886pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=540.60239pt
-* \textheight=759.6886pt
+* \textheight=731.23584pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-80.81725pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -435,11 +459,11 @@ LaTeX Font Info:    ... okay on input line 13.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 15.
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 15.
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -451,80 +475,143 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 ]
-Chapter 1.
-<marius/PT1.jpg, id=11, 523.20468pt x 170.88844pt>
-File: marius/PT1.jpg Graphic file (type jpg)
- <use marius/PT1.jpg>
-Package pdftex.def Info: marius/PT1.jpg used on input line 69.
-(pdftex.def)             Requested size: 432.48355pt x 141.2611pt.
+Kapitel 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Overfull \hbox (14.21623pt too wide) detected at line 42
+\OML/cmm/m/it/12 G\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 ) = \OMS/c
+msy/m/n/12 Z [] j[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 Z []   Z [] j[]
+ []
 
 [2
 
-] <marius/PT1_Step.jpg, id=24, 830.10126pt x 462.72874pt>
+] <marius/PT1.jpg, id=21, 646.66594pt x 361.35pt>
+File: marius/PT1.jpg Graphic file (type jpg)
+ <use marius/PT1.jpg>
+Package pdftex.def Info: marius/PT1.jpg used on input line 90.
+(pdftex.def)             Requested size: 432.48355pt x 241.66765pt.
+
+<marius/PT1_Step.jpg, id=22, 853.1875pt x 455.7025pt>
 File: marius/PT1_Step.jpg Graphic file (type jpg)
 
 <use marius/PT1_Step.jpg>
-Package pdftex.def Info: marius/PT1_Step.jpg used on input line 77.
-(pdftex.def)             Requested size: 486.53883pt x 271.21419pt.
+Package pdftex.def Info: marius/PT1_Step.jpg used on input line 98.
+(pdftex.def)             Requested size: 486.53883pt x 259.87132pt.
 
-<marius/PT1_Chirp_0,0001-1Hz.jpg, id=25, 620.3175pt x 705.63625pt>
+<marius/PT1_Chirp_0,0001-1Hz.jpg, id=23, 800.9925pt x 748.7975pt>
 File: marius/PT1_Chirp_0,0001-1Hz.jpg Graphic file (type jpg)
 
 <use marius/PT1_Chirp_0,0001-1Hz.jpg>
-Package pdftex.def Info: marius/PT1_Chirp_0,0001-1Hz.jpg used on input line 83.
-
-(pdftex.def)             Requested size: 486.53883pt x 553.45192pt.
- [3 <./marius/PT1.jpg> <./marius/PT1_Step.jpg>] [4 <./marius/PT1_Chirp_0,0001-1
-Hz.jpg>]
-Chapter 2.
-<marius/DT1.jpg, id=32, 615.0478pt x 307.90031pt>
+Package pdftex.def Info: marius/PT1_Chirp_0,0001-1Hz.jpg used on input line 104
+.
+(pdftex.def)             Requested size: 486.53883pt x 454.84628pt.
+ [3 <./marius/PT1.jpg>] [4 <./marius/PT1_Step.jpg>] [5 <./marius/PT1_Chirp_0,00
+01-1Hz.jpg>]
+Kapitel 2.
+<marius/DT1.jpg, id=35, 615.0478pt x 307.90031pt>
 File: marius/DT1.jpg Graphic file (type jpg)
  <use marius/DT1.jpg>
-Package pdftex.def Info: marius/DT1.jpg used on input line 147.
+Package pdftex.def Info: marius/DT1.jpg used on input line 161.
 (pdftex.def)             Requested size: 432.48355pt x 216.51065pt.
- [5
+ [6
 
 ]
-<marius/DT1_Step.jpg, id=36, 800.9925pt x 398.48875pt>
+<marius/DT1_Step.jpg, id=40, 884.30376pt x 460.72125pt>
 File: marius/DT1_Step.jpg Graphic file (type jpg)
 
 <use marius/DT1_Step.jpg>
-Package pdftex.def Info: marius/DT1_Step.jpg used on input line 155.
-(pdftex.def)             Requested size: 486.53883pt x 242.05626pt.
+Package pdftex.def Info: marius/DT1_Step.jpg used on input line 170.
+(pdftex.def)             Requested size: 486.53883pt x 253.48886pt.
 
-<marius/DT1_Chrip_0,001-0,2Hz.jpg, id=37, 800.9925pt x 776.9025pt>
+<marius/DT1_Chrip_0,001-0,2Hz.jpg, id=41, 800.9925pt x 721.69624pt>
 File: marius/DT1_Chrip_0,001-0,2Hz.jpg Graphic file (type jpg)
 
 <use marius/DT1_Chrip_0,001-0,2Hz.jpg>
-Package pdftex.def Info: marius/DT1_Chrip_0,001-0,2Hz.jpg used on input line 16
-1.
-(pdftex.def)             Requested size: 486.53883pt x 471.91826pt.
- [6 <./marius/DT1.jpg> <./marius/DT1_Step.jpg>] [7 <./marius/DT1_Chrip_0,001-0,
+Package pdftex.def Info: marius/DT1_Chrip_0,001-0,2Hz.jpg used on input line 17
+6.
+(pdftex.def)             Requested size: 486.53883pt x 438.38402pt.
+ [7 <./marius/DT1.jpg> <./marius/DT1_Step.jpg>] [8 <./marius/DT1_Chrip_0,001-0,
 2Hz.jpg>]
-(Digitale_Übertragungsglieder.aux) ) 
+Kapitel 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+<marius/PID.jpg, id=48, 589.4522pt x 361.35pt>
+File: marius/PID.jpg Graphic file (type jpg)
+ <use marius/PID.jpg>
+Package pdftex.def Info: marius/PID.jpg used on input line 244.
+(pdftex.def)             Requested size: 432.48355pt x 265.12866pt.
+ [9
+
+]
+<marius/PID_Step.jpg, id=52, 800.9925pt x 549.05125pt>
+File: marius/PID_Step.jpg Graphic file (type jpg)
+
+<use marius/PID_Step.jpg>
+Package pdftex.def Info: marius/PID_Step.jpg used on input line 252.
+(pdftex.def)             Requested size: 486.53883pt x 333.51329pt.
+
+<marius/PID_Impulse.jpg, id=53, 800.9925pt x 505.89pt>
+File: marius/PID_Impulse.jpg Graphic file (type jpg)
+
+<use marius/PID_Impulse.jpg>
+Package pdftex.def Info: marius/PID_Impulse.jpg used on input line 258.
+(pdftex.def)             Requested size: 486.53883pt x 307.29561pt.
+ [10 <./marius/PID.jpg>] [11 <./marius/PID_Step.jpg> <./marius/PID_Impulse.jpg>
+]
+Kapitel 4.
+<marius/FIR.jpg, id=60, 495.35063pt x 417.81094pt>
+File: marius/FIR.jpg Graphic file (type jpg)
+ <use marius/FIR.jpg>
+Package pdftex.def Info: marius/FIR.jpg used on input line 272.
+(pdftex.def)             Requested size: 432.48355pt x 364.78676pt.
+
+<marius/FIR_Step.jpg, id=61, 800.9925pt x 705.63625pt>
+File: marius/FIR_Step.jpg Graphic file (type jpg)
+
+<use marius/FIR_Step.jpg>
+Package pdftex.def Info: marius/FIR_Step.jpg used on input line 280.
+(pdftex.def)             Requested size: 486.53883pt x 428.6286pt.
+
+<marius/FIR_Impulse.jpg, id=62, 800.9925pt x 705.63625pt>
+File: marius/FIR_Impulse.jpg Graphic file (type jpg)
+
+<use marius/FIR_Impulse.jpg>
+Package pdftex.def Info: marius/FIR_Impulse.jpg used on input line 286.
+(pdftex.def)             Requested size: 486.53883pt x 428.6286pt.
+ [12
+
+ <./marius/FIR.jpg>] [13 <./marius/FIR_Step.jpg>] [14 <./marius/FIR_Impulse.jpg
+>] (Digitale_Übertragungsglieder.aux) ) 
 Here is how much of TeX's memory you used:
- 2826 strings out of 493673
- 35744 string characters out of 3143963
- 103646 words of memory out of 3000000
- 6134 multiletter control sequences out of 15000+200000
+ 3326 strings out of 493673
+ 42555 string characters out of 3143963
+ 116528 words of memory out of 3000000
+ 6609 multiletter control sequences out of 15000+200000
  12702 words of font info for 49 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,13n,24p,260b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/lat
-xfont/line10.pfb>
-Output written on Digitale_Übertragungsglieder.pdf (8 pages, 332591 bytes).
+ 27i,13n,24p,275b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
+i6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+latxfont/line10.pfb>
+Output written on Digitale_Übertragungsglieder.pdf (15 pages, 647386 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 111 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
