@@ -1,0 +1,11 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {a)}Berechnen Sie die z-\IeC {\"U}bertragungsfunktion der Strecke inkl. Halteglied}{2}
+\contentsline {subsection}{\numberline {a).1}\IeC {\"U}bertragunsfunktion der Strecke}{2}
+\contentsline {subsection}{\numberline {a).2}z-Transformation mit Halteglied}{2}
+\contentsline {section}{\numberline {b)}Berechnen der F\IeC {\"u}hrungs\IeC {\"u}bertragungsfunktion und der F\IeC {\"u}hrungssprungantwort}{2}
+\contentsline {section}{\numberline {c)}Simulationsergebnisse F\IeC {\"u}hrungs\IeC {\"u}bertragungsfunktion}{3}
+\contentsline {section}{\numberline {d)}Berechnen der bleibenden Regelabweichung}{4}
+\contentsline {section}{\numberline {e)}St\IeC {\"o}r\IeC {\"u}bertragungsfunktion und St\IeC {\"o}rsprungantwort brechnen}{4}
+\contentsline {section}{\numberline {f)}Simulationsergebnisse St\IeC {\"o}rungs\IeC {\"u}bertragungsfunktion}{5}
+\contentsline {section}{\numberline {g)}Implementieren eines PD-Reglers und optimieren der Regelparameter nach Ziegler-Nichols}{5}
+\contentsline {subsection}{\numberline {g).1}Interpreation der Ergebnisse}{5}
